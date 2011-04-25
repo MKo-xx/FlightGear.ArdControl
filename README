@@ -1,0 +1,10 @@
+FlightGear.ArdControl - Control FlightGear aircrafts with external Tx/Rx system for RC airplanes.
+
+Add protocol files to Flightgear from Protocols/*
+Run Flightgear using run.bat
+Upload Rxreader/Rxreader.pde to Arduino board.
+Connect Tx/Rx system.
+Run C# program and connect to Ardunio and Flightgear.
+
+That's all :).
+
